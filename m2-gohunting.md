@@ -85,4 +85,6 @@ You see the difference? You've told the AI what you're hunting for, where you're
 
 What's the next big game you're lookin' to hunt? We can sharpen your aim together.
 
-Reflection: I think the Gemini response to this prompt is close to what a real Southern hunter might say in response to a question. (I don’t hunt, nor am I from southern Texas, but this is what I imagine the stereotypical persona would sound like.)
+### **Reflection**
+
+I think the Gemini response to this prompt is close to what a real Southern hunter might say in response to a question. (I don’t hunt, nor am I from southern Texas, but this is what I imagine the stereotypical persona would sound like.)
