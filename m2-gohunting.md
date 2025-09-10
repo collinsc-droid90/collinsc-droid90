@@ -68,7 +68,7 @@ Here's how you'd apply that owl's wisdom to your prompt:
 * **Define Your Terrain:** Set the scene. Who is this information for? A grade schooler? A college student? A fellow professor? The level of detail and the vocabulary will change depending on your audience. This helps the AI choose the right "terrain" to operate in.
 * **Choose Your Trophy Mount:** Tell the AI how you want the prize presented. Do you need a simple summary, a detailed step-by-step breakdown, a table, or a Q&A format? This ensures the answer comes back in a useful, organized way.
 
----
+
 ### **Taking a Better Aim**
 
 Let's say you're a student preparing for a test and you need to understand cellular respiration. A weak shot would be:
@@ -85,6 +85,7 @@ You see the difference? You've told the AI what you're hunting for, where you're
 
 What's the next big game you're lookin' to hunt? We can sharpen your aim together.
 
+---
 ### **Reflection**
 
 I think the Gemini response to this prompt is close to what a real Southern hunter might say in response to a question. (I don’t hunt, nor am I from southern Texas, but this is what I imagine the stereotypical persona would sound like.)
